@@ -1,2 +1,2 @@
 # webinar-devops
-Лабараторна робота по Devops
+Лабораторна робота по Devops
